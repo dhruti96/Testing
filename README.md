@@ -1,2 +1,3 @@
 # Testing
-This is repo to commit cod e
+This is repo to commit code from command line
+
